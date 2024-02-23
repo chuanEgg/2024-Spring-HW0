@@ -1,11 +1,5 @@
 ## Foundry
 
-## Figure 2:
-![image](https://hackmd.io/_uploads/rJCZnzI2T.png)
-
-## Figure 3:
-Sepolia etherscan is down (too bad!)
-
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
