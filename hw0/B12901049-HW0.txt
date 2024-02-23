@@ -1,0 +1,17 @@
+1.
+Gas on the blockchain indicates the computational work for transactions and smart contracts. However, gas might not perfectly reflect the actual fee needed for the operation. 
+EIP-1559 is an improvement proposal that makes Ethereum's gas fees more predictable. It introduce a base fee that adjusts with current demand. This change makes transaction fee less volatile and thus improve user experience.
+
+2.
+var1 - X
+var2 - slot 0
+var3 - X
+var4 - slot 1
+var5 - slot 2
+var6 - slot 2
+var7 - slot 3
+var8 - slot 4
+
+3.
+Impermanent loss in AMM occurs when the value of deposited assets changes compared to when they were initially deposited into the liquidity pool. 
+Imagine you deposit 50 dollars worth of ETH and 50 dollars worth of USDC into a liquidity pool, the total value of your deposit 100 dollars. If the price of ETH rises, traders will add USDC and remove ETH from the pool to take profit until the ratio of the two tokens reflects the current market, which means you end up with more USDC and less ETH than you started with. You will make more profit if you just hold ETH outside AMM, thus causing a impernament loss.
