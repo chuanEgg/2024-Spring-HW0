@@ -13,8 +13,8 @@ https://i.imgur.com/ERlHElx.png
 
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
-0x9C636ec65466dc81e51168C04c3e037CfC9bfDdA
+0x2e754C6aE1AF23c752Bd1a60f2b513baBEBd10d6
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
-site is down (too bad!)
+https://i.imgur.com/Uc3WWPY.png
